@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DOM & SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: He?him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I started programming when I was 9
 
 <!---
